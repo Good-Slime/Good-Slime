@@ -51,14 +51,6 @@ const karthik = {
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Good-Slime&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=Good-Slime&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Good-Slime&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 <div align="center">
   📫 <b>Connect with me:</b> <a href="mailto:karthikreddytoyou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/n-karthik-reddy-a4bb93324/">LinkedIn</a>
 </div>
