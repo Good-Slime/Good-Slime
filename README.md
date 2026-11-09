@@ -131,20 +131,6 @@ Designed with a clean MVC architecture in Node.js and Express. Features bidirect
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Good-Slime/Good-Slime/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Good-Slime/Good-Slime/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Good-Slime/Good-Slime/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
