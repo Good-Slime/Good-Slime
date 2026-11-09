@@ -21,9 +21,9 @@ const karthik = {
 
 ## 🚀 Featured Projects
 
-*   **[Collab Canvas](https://github.com/Good-Slime)**: A real-time collaborative whiteboard architected with React 19, Socket.io, and Node.js. Features live cursor tracking, client-side undo/redo via an immutable stroke history stack, and a resilient dual-store persistence layer (MongoDB with in-memory fallback).
-*   **[JobTracker](https://github.com/Good-Slime)**: A comprehensive job application tracker utilizing 10+ RESTful APIs. Built with a React dashboard for pipeline tracking and secured with HTTP-only cookie JWT authentication and middleware-enforced route protection.
-*   **[Socialx](https://github.com/Good-Slime)**: A social media backend platform designed with a clean MVC architecture in Node.js and Express. Features bidirectional follows, idempotent comment threading, and robust MongoDB relationship modeling using references.
+*   **[Collab Canvas](https://github.com/Good-Slime/CollabCanvas)**: A real-time collaborative whiteboard architected with React 19, Socket.io, and Node.js. Features live cursor tracking, client-side undo/redo via an immutable stroke history stack, and a resilient dual-store persistence layer (MongoDB with in-memory fallback).
+*   **[JobTracker](https://github.com/Good-Slime/Job-Tracker)**: A comprehensive job application tracker utilizing 10+ RESTful APIs. Built with a React dashboard for pipeline tracking and secured with HTTP-only cookie JWT authentication and middleware-enforced route protection.
+*   **[Socialx](https://github.com/Good-Slime/SocialX)**: A social media backend platform designed with a clean MVC architecture in Node.js and Express. Features bidirectional follows, idempotent comment threading, and robust MongoDB relationship modeling using references.
 
 ---
 
